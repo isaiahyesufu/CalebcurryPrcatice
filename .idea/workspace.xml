@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0009cfd-4b5b-4e1f-95f9-a262d5adc476" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Switchstatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intoductiontoloops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forloopandnestedstatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nestedlooptriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TernaryConditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TernaryConditions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,15 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,7 +51,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666183562427</updated>
-      <workItem from="1666183566888" duration="4522000" />
+      <workItem from="1666183566888" duration="6745000" />
+      <workItem from="1666601137107" duration="3374000" />
+      <workItem from="1666607658568" duration="1151000" />
+      <workItem from="1666613289034" duration="7180000" />
     </task>
     <servers />
   </component>
