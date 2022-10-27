@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0009cfd-4b5b-4e1f-95f9-a262d5adc476" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arraysortandparallelsort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introductiontoarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TWODarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandarraylists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrayandarraylist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TernaryConditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TernaryConditions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TWODarrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TWODarrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/nestedlooptriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nestedlooptriangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,9 @@
       <workItem from="1666623410635" duration="519000" />
       <workItem from="1666683641037" duration="2731000" />
       <workItem from="1666693218933" duration="5480000" />
-      <workItem from="1666775660179" duration="11417000" />
+      <workItem from="1666775660179" duration="13261000" />
+      <workItem from="1666864150166" duration="710000" />
+      <workItem from="1666868139483" duration="8994000" />
     </task>
     <servers />
   </component>
